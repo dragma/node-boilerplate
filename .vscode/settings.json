@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.expo-shared": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "data": true
+  },
+  "editor.tabSize": 2,
+  "eslint.enable": true,
+  "eslint.packageManager": "yarn",
+  "debug.node.autoAttach": "on",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
