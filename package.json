@@ -1,0 +1,26 @@
+{
+  "name": "node-boilerplate",
+  "version": "0.0.1",
+  "description": "A nodejs server made by myself, for myself",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragma/node-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "boilerplate",
+    "express",
+    "graphql"
+  ],
+  "author": "Florent Béjina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragma/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dragma/node-boilerplate#readme"
+}
