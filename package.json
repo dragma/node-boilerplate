@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "private": true,
   "scripts": {
-    "build": "yarn babel src -d dist --copy-files",
+    "build": "NODE_ENV=production  yarn babel src -d dist --copy-files",
     "dev": "yarn nodemon --exec babel-node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
